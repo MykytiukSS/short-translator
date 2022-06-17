@@ -1,0 +1,9 @@
+cat=кiт
+dog=пес
+small=малий
+black=чорний
+one=один
+can=може
+run=бiгати
+sleep=спати
+this=цей
